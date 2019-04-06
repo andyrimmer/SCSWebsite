@@ -1,0 +1,75 @@
+
+#content p, #content td, #content li {
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 0.9em;
+}
+
+#content a:link, #content a:visited, #content a:active
+{
+    COLOR: chocolate;
+    TEXT-DECORATION: none;
+}
+
+#content a:hover
+{
+    COLOR: chocolate;
+    TEXT-DECORATION: underline;
+}
+
+#content h1
+{
+    FONT-SIZE: 1.4em;
+    FONT-WEIGHT: bold;
+    COLOR: firebrick;
+    FONT-STYLE: italic;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+    TEXT-ALIGN: center
+}
+
+#content h2
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 1.0em;
+    COLOR: firebrick;
+    FONT-STYLE: italic;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+}
+
+.picturel
+{
+    FONT-SIZE: 70%;
+    COLOR: #333333;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+    TEXT-ALIGN: center;
+	flaot: left;
+}
+
+.picturer
+{
+    FONT-SIZE: 70%;
+    COLOR: #333333;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+    TEXT-ALIGN: center;
+	float: right;
+}
+
+/* Styles for historic concert pages */
+
+.picture
+{
+    FONT-SIZE: 70%;
+    COLOR: #333333;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+    TEXT-ALIGN: center;
+}
+
+.verse {
+	font-family: "Courier New", Courier, mono;
+	font-size: small;
+	font-style: normal;
+	line-height: normal;
+	color: #336633;
+}
+.subtext {
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+}

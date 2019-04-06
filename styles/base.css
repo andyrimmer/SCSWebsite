@@ -1,0 +1,148 @@
+body
+{
+	background: url(../images/bkgd-cream.jpg);
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	text-align: center;
+}
+	
+
+#page
+{
+	background-color: #FFF;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#banner {
+	text-align: center;
+	border: 0;
+}
+
+#nav {
+	text-align: center;
+	margin: auto;
+	vertical-align: top;
+	width: 172px;
+}
+
+#menu {
+	margin-left: auto;
+	margin-right: auto;
+	width: 160px;
+}
+
+#nav .menuhead {
+	font-size: 1.4em;
+	font-weight: bold;
+	color: firebrick;
+	margin-top: 1px;
+	margin-bottom: 4px;
+}
+
+#nav .grouphead {
+	font-size: 1.0em;
+	font-weight: bold;
+	color: firebrick;
+	margin-bottom: 1px;
+}
+
+#nav ul {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	list-style: none;
+}
+
+#nav ul li {
+	font-size: 0.8em;
+	margin: 0;
+	padding: 0;
+	border: 0;
+	background-color: #DDD;
+	border: 1px solid #FFF;
+	width: 160px;
+
+}
+
+#nav ul li a:link, #nav ul li a:visited  {
+	color: #000;
+	text-decoration: none;
+	font-weight: bold;
+	display: block;
+	line-height: 1.8em;
+	width: 160px;
+}
+
+#nav ul li a:hover, #nav ul li a:active  {
+	color: #FFF;
+	text-decoration: none;
+	background-color: #999;
+	font-weight: bold;
+	display: block;
+	line-height: 1.8em;
+	width: 160px;
+}
+
+#contentpane {
+	width: 780px;
+	border: 0;
+	text-align: center;
+	vertical-align: top;
+}
+
+#content {
+	margin-left: auto;
+	margin-right: auto;
+	width: 750px;
+}
+
+#footer {
+    FONT-SIZE: 60%;
+    COLOR: #999999;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+    text-align: center;
+	border: 0;
+}
+
+#page tr #contentpane #content table tr td div ul {
+	text-align: left;
+	padding-left: 35%;
+	list-style-type: circle;
+	list-style-position: outside;
+}
+#page tr #contentpane #content table tr td table tr td p {
+	text-align: right;
+}
+#page tr #contentpane #content table tr td table tr td p {
+	text-align: left;
+}
+#page tr #contentpane #content table tr td table tr td p {
+	font-size: 1em;
+}
+#page tr #contentpane #content table tr td table tr td p {
+	font-size: 12px;
+}
+#page tr #contentpane #content table tr td table tr td p {
+	font-size: 10pt;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+#page tr #contentpane #content table tr td div div div div h1 {
+	font-style: italic;
+}
+#page tr #contentpane #content p strong {
+}
+#page tr #contentpane #content div div div p {
+	text-align: left;
+}
+#page tr #contentpane #content p strong {
+}
+#page tr #contentpane #content div div div p em {
+	text-align: center;
+}
+#page tr #contentpane #content div p em {
+	text-align: justify;
+}
+#page tr #contentpane #content table tr td table tr td p strong {
+	text-align: center;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
